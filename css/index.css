@@ -9,7 +9,8 @@ body {
 }
 
 #calculator {
-  background: #2B3D50;
+  /*background: #2B3D50;*/
+  background: darkblue;
   border-radius: 20px;
   padding: 15px;
   width: 335px;
